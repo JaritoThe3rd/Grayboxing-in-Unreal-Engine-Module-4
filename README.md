@@ -221,3 +221,15 @@ You can press Q to reduce the geometry and E to add more on top of it.
 
 
 <img width="1300" height="671" alt="image" src="https://github.com/user-attachments/assets/5a7a2a1e-b9d5-4c3f-9630-0ba73a7d86b5" />
+
+
+<img width="3439" height="966" alt="image" src="https://github.com/user-attachments/assets/4c990dd8-3be9-4403-8844-217c0f7b63c2" />
+
+Merging Multiple Meshes
+Select all the guardhouse mesh from the outliner and Modeling mode > XForm > Accept to combine all of the mesh into one static mesh.
+
+
+<img width="2676" height="975" alt="image" src="https://github.com/user-attachments/assets/0287705b-ce53-470d-ad0f-d43986a226b1" />
+
+
+Editing the pivot UI Modeling Mode > XForm > Edit Pivot > Once placed to your desired position then accept.
