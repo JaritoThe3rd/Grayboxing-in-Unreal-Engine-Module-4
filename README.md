@@ -152,7 +152,7 @@ If you have a landscape to work on it's better to start sculpting your landscape
 
 
 <img width="1886" height="942" alt="image" src="https://github.com/user-attachments/assets/d2fbc91e-9663-4840-8672-40d3ba6d1bda" />
-
+s
 
 The process is basically as you sculpt your landscape you keep increasing the height of the plane, which is your level design outline.
 
@@ -167,3 +167,37 @@ The process is basically as you sculpt your landscape you keep increasing the he
 
 
 <img width="1306" height="650" alt="image" src="https://github.com/user-attachments/assets/0c925500-f5d1-456b-a4cc-da5db49edf66" />
+
+
+<img width="1914" height="1076" alt="image" src="https://github.com/user-attachments/assets/841bb885-dd3b-48f7-9bb5-4f27b0fdd025" />
+
+
+Place a cube and make the scale 20 x 14 x 1.
+
+
+<img width="520" height="558" alt="image" src="https://github.com/user-attachments/assets/105e6590-1ffa-4987-b173-b932b5621114" />
+
+
+Outliner organization
+Rename the platform and move it into a new folder called "Guardhouse"
+
+
+<img width="1898" height="1010" alt="image" src="https://github.com/user-attachments/assets/8a2cf173-e181-476f-8fd9-e2b38d2a477a" />
+
+
+<img width="1400" height="748" alt="image" src="https://github.com/user-attachments/assets/bf309089-ae7e-4995-81b1-dc8380f30180" />
+
+
+<img width="1252" height="669" alt="image" src="https://github.com/user-attachments/assets/36d76237-133e-4e01-8c9e-d8809c662346" />
+
+
+<img width="381" height="700" alt="image" src="https://github.com/user-attachments/assets/9e5bcdf6-bdec-47d9-8a9b-7670661ba124" />
+
+
+<img width="1025" height="621" alt="image" src="https://github.com/user-attachments/assets/3f683ab0-1bb5-4862-a22a-a786b521ccf6" />
+
+
+Checking the height of your landscape
+Go to landscape mode > Sculpt > Flatten : Flatten Target > Select the Eyedrop Icon > Select the landscape you want to measure.
+
+<img width="1025" height="621" alt="image" src="https://github.com/user-attachments/assets/a73d1c33-47e6-43b2-b946-f74034425774" />
