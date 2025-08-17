@@ -200,4 +200,17 @@ Rename the platform and move it into a new folder called "Guardhouse"
 Checking the height of your landscape
 Go to landscape mode > Sculpt > Flatten : Flatten Target > Select the Eyedrop Icon > Select the landscape you want to measure.
 
-<img width="1025" height="621" alt="image" src="https://github.com/user-attachments/assets/a73d1c33-47e6-43b2-b946-f74034425774" />
+
+<img width="1256" height="685" alt="image" src="https://github.com/user-attachments/assets/43aafa48-1665-4519-b8d8-47dc9e9887c0" />
+
+
+<img width="1555" height="773" alt="image" src="https://github.com/user-attachments/assets/e08d9ad0-963f-4444-817f-491b0f912770" />
+
+
+CubeGrid from Modeling Mode
+You can press Q to reduce the geometry and E to add more on top of it.
+
+
+<img width="1250" height="683" alt="image" src="https://github.com/user-attachments/assets/6ee5574b-c766-4447-89b6-bee717547624" />
+
+
