@@ -37,3 +37,15 @@
 <img width="1212" height="661" alt="image" src="https://github.com/user-attachments/assets/11be0618-34b3-4ec9-a875-b2ebc66240f1" />
 
 
+<img width="1212" height="649" alt="image" src="https://github.com/user-attachments/assets/a54b11e3-04ee-4a0e-b03f-f3ce1594fc97" />
+
+
+<img width="3436" height="1439" alt="image" src="https://github.com/user-attachments/assets/b351ecad-e8f3-41b7-b49f-0ef42ae145f7" />
+
+
+Opening a new level and creating a folder within the content file called Grayboxing
+
+
+<img width="1214" height="654" alt="image" src="https://github.com/user-attachments/assets/afc0d2b4-efd8-4a18-80cd-57f56f215d81" />
+
+
