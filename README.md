@@ -284,3 +284,9 @@ Materials for Level Design
 
 
 3. MI_PrototypeGrid_TopDark: It's a material where the grid is local or stays on the cube, but the top part remains dark since it is aligned on the horizontal axis of the landscape.
+
+
+<img width="688" height="436" alt="image" src="https://github.com/user-attachments/assets/45a68ab9-5220-46a1-b31b-c9efddba3951" />
+
+
+<img width="1301" height="655" alt="image" src="https://github.com/user-attachments/assets/7c8fba1b-0404-4f0a-8337-b0cd1911ef89" />
