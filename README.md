@@ -116,3 +116,51 @@ Now its applied to material then drag the material to the plane field.
 
 
 <img width="3438" height="1439" alt="image" src="https://github.com/user-attachments/assets/48e3a2e7-b76b-4c6a-98d9-d149219f0997" />
+
+
+<img width="1209" height="622" alt="image" src="https://github.com/user-attachments/assets/7ced56e6-b1f3-4920-a075-d7b8b22dde47" />
+
+
+<img width="3430" height="1358" alt="image" src="https://github.com/user-attachments/assets/cade50b3-e330-46b4-aeac-bce2bfa51157" />
+
+
+Go to Landscape mode and set "Number of Components" into 12x8. Then it should match the level design.
+
+
+<img width="2203" height="741" alt="image" src="https://github.com/user-attachments/assets/234f85e9-cbc7-44c4-b0ec-d121cd5502eb" />
+
+
+<img width="483" height="699" alt="image" src="https://github.com/user-attachments/assets/bf3373a7-e3dd-4cd6-be5e-bc3bbe67540a" />
+
+
+Then select the Material and look for MI_Prototype_DarkTop. Then click Create. (This is good for greyboxing purposes type of materials)
+
+
+<img width="1633" height="789" alt="image" src="https://github.com/user-attachments/assets/1dfa368e-c897-40a2-af0d-ca5580a2632e" />
+
+
+Now elevate the plane a little bit so you can see the sketch of your level design.
+
+
+<img width="1881" height="927" alt="image" src="https://github.com/user-attachments/assets/d8736628-896d-4a51-85e1-a5ca41eaaa3d" />
+
+
+If you have a landscape to work on it's better to start sculpting your landscape.
+
+
+<img width="1888" height="922" alt="image" src="https://github.com/user-attachments/assets/730c3ce3-49c9-4c0c-a552-714a7118793e" />
+
+
+<img width="1886" height="942" alt="image" src="https://github.com/user-attachments/assets/d2fbc91e-9663-4840-8672-40d3ba6d1bda" />
+
+
+The process is basically as you sculpt your landscape you keep increasing the height of the plane, which is your level design outline.
+
+
+<img width="1887" height="861" alt="image" src="https://github.com/user-attachments/assets/76a6fb51-a74d-476c-9696-1509783b9c67" />
+
+
+<img width="1914" height="937" alt="image" src="https://github.com/user-attachments/assets/fce20ad2-df6a-40db-8bec-04d57011a2df" />
+
+
+<img width="2143" height="821" alt="image" src="https://github.com/user-attachments/assets/d72bf48b-766f-4b0f-8498-24c5d9b74ff4" />
