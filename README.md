@@ -214,3 +214,10 @@ You can press Q to reduce the geometry and E to add more on top of it.
 <img width="1250" height="683" alt="image" src="https://github.com/user-attachments/assets/6ee5574b-c766-4447-89b6-bee717547624" />
 
 
+<img width="3414" height="1355" alt="image" src="https://github.com/user-attachments/assets/04058509-d87c-4b54-b2e5-c4baa252cb56" />
+
+
+<img width="682" height="393" alt="image" src="https://github.com/user-attachments/assets/74537fdd-dc5c-4b67-ae06-a9a42ac185f0" />
+
+
+<img width="1300" height="671" alt="image" src="https://github.com/user-attachments/assets/5a7a2a1e-b9d5-4c3f-9630-0ba73a7d86b5" />
