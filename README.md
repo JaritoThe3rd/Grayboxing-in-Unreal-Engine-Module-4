@@ -225,6 +225,7 @@ You can press Q to reduce the geometry and E to add more on top of it.
 
 <img width="3439" height="966" alt="image" src="https://github.com/user-attachments/assets/4c990dd8-3be9-4403-8844-217c0f7b63c2" />
 
+
 Merging Multiple Meshes
 Select all the guardhouse mesh from the outliner and Modeling mode > XForm > Accept to combine all of the mesh into one static mesh.
 
@@ -232,4 +233,30 @@ Select all the guardhouse mesh from the outliner and Modeling mode > XForm > Acc
 <img width="2676" height="975" alt="image" src="https://github.com/user-attachments/assets/0287705b-ce53-470d-ad0f-d43986a226b1" />
 
 
+Edit Pivot Placement
 Editing the pivot UI Modeling Mode > XForm > Edit Pivot > Once placed to your desired position then accept.
+
+
+<img width="3402" height="668" alt="image" src="https://github.com/user-attachments/assets/75d91881-353b-4373-a740-36b045e1e82f" />
+
+
+Finding your merged asset
+
+
+<img width="2314" height="1349" alt="image" src="https://github.com/user-attachments/assets/aa399780-6cda-4cd4-9382-d17a0142dda1" />
+
+
+Exporting Merged Mesh
+
+
+<img width="1306" height="716" alt="image" src="https://github.com/user-attachments/assets/c62f9504-59bb-4e36-8c91-568ed9ea7ced" />
+
+
+<img width="2712" height="445" alt="image" src="https://github.com/user-attachments/assets/f76556bd-0510-4939-9275-006d0c5b23d3" />
+
+
+Studio Ligthing
+To make environment building a lot easier.
+
+
+<img width="1300" height="654" alt="image" src="https://github.com/user-attachments/assets/2f589fbf-b4e3-43f5-a10d-f6e84158bef4" />
