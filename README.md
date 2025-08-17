@@ -260,3 +260,27 @@ To make environment building a lot easier.
 
 
 <img width="1300" height="654" alt="image" src="https://github.com/user-attachments/assets/2f589fbf-b4e3-43f5-a10d-f6e84158bef4" />
+
+
+<img width="360" height="193" alt="image" src="https://github.com/user-attachments/assets/6c2f2789-988c-4a75-a6dd-de1471b32e72" />
+
+
+Materials for Level Design
+
+
+<img width="1361" height="728" alt="image" src="https://github.com/user-attachments/assets/d397e12c-cb20-4e90-b3a9-9278b07133c3" />
+
+
+1. MI_PrototypeGrid_Gray: It's a material where the grid effect on the cube stays or local on the cube itself. (Meaning grids on the cube don't move when you rotate the cube or move it.)
+
+
+<img width="1580" height="696" alt="image" src="https://github.com/user-attachments/assets/43287ca1-6cdf-468a-8d8b-f6a0b8db6d19" />
+
+
+2. MI_PrototypeGrid_Gray_02: It's a material where it follows the grid layout of the landscape instead.
+
+
+<img width="818" height="522" alt="image" src="https://github.com/user-attachments/assets/c2c4ce13-94b8-4077-a51b-2e2fa70606cc" />
+
+
+3. MI_PrototypeGrid_TopDark: It's a material where the grid is local or stays on the cube, but the top part remains dark since it is aligned on the horizontal axis of the landscape.
