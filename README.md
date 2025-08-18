@@ -290,3 +290,15 @@ Materials for Level Design
 
 
 <img width="1301" height="655" alt="image" src="https://github.com/user-attachments/assets/7c8fba1b-0404-4f0a-8337-b0cd1911ef89" />
+
+
+<img width="1024" height="947" alt="image" src="https://github.com/user-attachments/assets/5b66c0cb-8268-4e7b-b5da-22a967a81b3b" />
+
+
+<img width="1916" height="957" alt="image" src="https://github.com/user-attachments/assets/03b3c662-2d1a-4d8a-a4e2-3199d0273372" />
+
+4 Levels of Lighting
+1. World Ligthing
+2. Interior Lighting
+3. Destination Lighting
+4. Gameplay Lighting
